@@ -1,5 +1,5 @@
 # IPCV_Exam_Project
-# <div align="Center"><u> Defect Detection in Tire Manufacturing </u></div>
+# <div align="Center"><u> 3D Tire Defect Detection using Point Cloud Processing </u></div>
 
 This is exam Project for the Course Image Processing and Computer Vision. The Project is in Collaboratin with T3LAB
 
