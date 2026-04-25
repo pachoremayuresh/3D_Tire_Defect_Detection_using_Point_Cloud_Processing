@@ -8,7 +8,7 @@ To set up the environment and install the required dependacies, follow these ste
 1. **Clone the repository** IPCV_Exam_Project (if you havent already):
 
 ```bash
-git clone https://github.com/pachoremayuresh/IPCV_Exam_Project.git 
+git clone https://github.com/pachoremayuresh/3D_Tire_Defect_Detection_using_Point_Cloud_Processing 
 ```
 
 2. Install the required Libraries
